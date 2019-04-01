@@ -3,10 +3,10 @@
     "title": "BY Blog",
     "author": "BY <508850335@qq.com>",
     "version": "1.7.0",
-    "homepage": "https://508850335.github.io",
+    "homepage": "https://508850335.github.io/",
     "repository": {
         "type": "git",
-        "url": "https://508850335.github.io/balloon/"
+        "url": "https://508850335.github.io/"
     },
     "bugs": "https://github.com/qiubaiying/qiubaiying.github.io/issues",
     "devDependencies": {
